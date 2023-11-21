@@ -17,6 +17,7 @@ define(['N/search'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
+            recird.create
 
         }
 
